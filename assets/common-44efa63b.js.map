@@ -1,0 +1,1 @@
+{"version":3,"file":"common-44efa63b.js","sources":["../../src/js/common.js"],"sourcesContent":["const common = {\n  LS_KEY_PLAYER: 'videoplayer-current-time',\n  LS_KEY_FORM: 'feedback-form-state',\n};\n\nexport default common;\n"],"names":["common"],"mappings":"AAAK,MAACA,EAAS,CACb,cAAe,2BACf,YAAa,qBACf"}
