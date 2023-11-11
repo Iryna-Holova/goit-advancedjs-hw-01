@@ -1,4 +1,4 @@
-import"./assets/modulepreload-polyfill-ec808ebb.js";/* empty css                      */import{S as t}from"./assets/vendor-c9def49e.js";function e(p){return p.map(({preview:o,original:a,description:i})=>`<li class="gallery__item">
+import"./assets/modulepreload-polyfill-ec808ebb.js";/* empty css                      */import{S as t}from"./assets/vendor-78be7656.js";function e(p){return p.map(({preview:o,original:a,description:i})=>`<li class="gallery__item">
         <a class="gallery__link" href="${a}">
           <img class="gallery__image" src="${o}" alt="${i}" />
         </a>
